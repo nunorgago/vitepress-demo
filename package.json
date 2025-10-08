@@ -1,0 +1,20 @@
+{
+  "name": "vitepress-demo",
+  "version": "1.0.0",
+  "description": "Demo VitePress documentation site",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Nuno Gago",
+    "email": "nuno.gago@fanduel.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
