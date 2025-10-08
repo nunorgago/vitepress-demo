@@ -1,4 +1,4 @@
-# VitePress Demo
+# VitePress Demo [![Github Page](https://img.shields.io/badge/Github_Page-Documentation-blue)](https://nunorgago.github.io/vitepress-demo/)
 
 This repository contains a demo project using [VitePress](https://vitepress.dev/).
 
